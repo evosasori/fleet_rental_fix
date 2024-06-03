@@ -1,11 +1,13 @@
-Fleet Rental Management v15
+Fleet Rental Management v15 By `Cybrosys Techno Solutions <https://cybrosys.com/>`__
 ===========================
-This module will helps you to give the vehicles for Rent.
+Aplikasi Sistem Penyewaan Kendaraan yang membantu mengelola persewaan kendaraan seperti mobil,van, sepeda, jeep, dll. 
 
 
-Configuration
+Fix Bug
 =============
-* No additional configurations needed
+* Fix Email Send
+* Fix False value in Email
+* fix reccuring cost
 
 Company
 -------
@@ -28,10 +30,5 @@ Contacts
 Bug Tracker
 -----------
 Bugs are tracked on GitHub Issues. In case of trouble, please check there if your issue has already been reported.
-
-Maintainer
-==========
-.. image:: https://cybrosys.com/images/logo.png
-   :target: https://cybrosys.com
 
 This module is maintained by Cybrosys Technologies.
